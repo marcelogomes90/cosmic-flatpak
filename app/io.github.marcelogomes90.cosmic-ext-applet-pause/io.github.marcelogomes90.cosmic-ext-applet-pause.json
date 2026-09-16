@@ -37,8 +37,8 @@
         {
           "type": "git",
           "url": "https://github.com/marcelogomes90/cosmic-ext-applet-pause.git",
-          "tag": "v1.0.0",
-          "commit": "dbc37e86e98265b2b9d24c33228cde04379d7652"
+          "tag": "v1.1.0",
+          "commit": "c5005da2554911cfcd7cc4eeedccf5b9ca2e1db9"
         },
         "cargo-sources.json"
       ]
